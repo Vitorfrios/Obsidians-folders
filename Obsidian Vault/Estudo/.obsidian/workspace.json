@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "3198f3dc73523e23",
+    "type": "split",
+    "children": [
+      {
+        "id": "780eb6e3d3ad4d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3af9a8f95c258c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Planner Geral.canvas",
+                "viewState": {
+                  "x": 1616.9839677489472,
+                  "y": 186.09602544000703,
+                  "zoom": -1.7143746121175432
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Planner Geral"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da2bb0451516e75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58545438a56c25a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726ff6f3273301f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "89cbc0fdab0abe3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "025f77949e5bc756",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a2e61e0e37ef213",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aad0a54862a1362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71840b75caafec52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Estudo/Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Python"
+            }
+          },
+          {
+            "id": "d85b99b070dacf26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Estudo/Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Python"
+            }
+          },
+          {
+            "id": "a2643e2a73784589",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e41650d6bb4c8c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Estudo/Python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ec3af9a8f95c258c",
+  "lastOpenFiles": [
+    "01_Estudo/BI.md",
+    "01_Estudo/Python.md",
+    "02_Exercicios_PY/02_Laços.md",
+    "01_Estudo/Ingles.md"
+  ]
+}
