@@ -1,0 +1,6 @@
+{
+  "folder": "Estudo/03_Diário",
+  "template": "Estudo/Templates/Template Diário",
+  "autorun": true,
+  "format": "DD-MM-YYYY, HH.MM"
+}
