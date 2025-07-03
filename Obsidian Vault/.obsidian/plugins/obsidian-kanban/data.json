@@ -1,0 +1,8 @@
+{
+  "show-checkboxes": true,
+  "hide-card-count": true,
+  "full-list-lane-width": true,
+  "new-note-template": "```kanban.md",
+  "new-note-folder": "ob",
+  "show-view-as-markdown": false
+}
