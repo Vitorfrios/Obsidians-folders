@@ -1,0 +1,956 @@
+{
+  "edges": [
+    {
+      "fromNode": "8bfdfbc25ac36f8b",
+      "fromSide": "bottom",
+      "id": "f4e9d23240959d2b",
+      "toFloating": false,
+      "toNode": "d99b3b372d6512bb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c30db2614cbd01cb",
+      "fromSide": "bottom",
+      "id": "d7355b7728c23474",
+      "toNode": "d99b3b372d6512bb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "eb6837e12fc942d9",
+      "fromSide": "right",
+      "id": "05b86074286e3697",
+      "toNode": "d99b3b372d6512bb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cfd5399c547415ff",
+      "fromSide": "top",
+      "id": "39f90a5ae89848e6",
+      "toNode": "d99b3b372d6512bb",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "453b31dbefb588b7",
+      "fromSide": "top",
+      "id": "6cf65bc714c7d7f6",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "d99b3b372d6512bb",
+      "toSide": "bottom"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "ddb227765c3f1d09",
+      "fromSide": "left",
+      "id": "63a30e184d58b5fb",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toFloating": false,
+      "toNode": "d99b3b372d6512bb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e01cc41ec244571f",
+      "fromSide": "bottom",
+      "id": "f94f4d9653639882",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "90e11ff063312c62",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "90e11ff063312c62",
+      "fromSide": "bottom",
+      "id": "203a22fab3126031",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "e6e0b7097d3ba532",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e6e0b7097d3ba532",
+      "fromSide": "bottom",
+      "id": "c79919183b3202c3",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "abd35994babb9bce",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "abd35994babb9bce",
+      "fromSide": "bottom",
+      "id": "2ee757eda211e567",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "9952016b4c01f1ec",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9952016b4c01f1ec",
+      "fromSide": "bottom",
+      "id": "49dcf0729139a469",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "14d7f28f8a2553ee",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "14d7f28f8a2553ee",
+      "fromSide": "bottom",
+      "id": "b656545671585589",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "2c1caaa1e5529205",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2c1caaa1e5529205",
+      "fromSide": "bottom",
+      "id": "493ca6a79f262962",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "bdbac9310b6143e5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "97254bbf0d1df42c",
+      "fromSide": "bottom",
+      "id": "7a5036bb262e9e9d",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "80126a0eb095fca2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "80126a0eb095fca2",
+      "fromSide": "bottom",
+      "id": "74dc137aadae9cd5",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "03141a5affacc97e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "03141a5affacc97e",
+      "fromSide": "bottom",
+      "id": "173cefba4b7eb637",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "b3e2ea0b446cdee4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b3e2ea0b446cdee4",
+      "fromSide": "bottom",
+      "id": "66878b1bc2d9c32d",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "547be7e24a023b39",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "547be7e24a023b39",
+      "fromSide": "bottom",
+      "id": "d766e9b9f32301dd",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "c250af1829c187a4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c250af1829c187a4",
+      "fromSide": "bottom",
+      "id": "598b9930e3caceb5",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "93e4c095262629fc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "93e4c095262629fc",
+      "fromSide": "bottom",
+      "id": "2684393d7feab221",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "0bf77f9f047110dc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c901d12298033d1c",
+      "fromSide": "bottom",
+      "id": "b9fd8c3a76532935",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "ca11601f21abe4bd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ca11601f21abe4bd",
+      "fromSide": "bottom",
+      "id": "a4500e6e58cf3742",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "83d0c0d8fbb094c9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "83d0c0d8fbb094c9",
+      "fromSide": "bottom",
+      "id": "cd9518c0824f83ed",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "8a6bb606d24dd582",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8a6bb606d24dd582",
+      "fromSide": "bottom",
+      "id": "78b2e9af63058f9f",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "de528339607fa9b2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "de528339607fa9b2",
+      "fromSide": "bottom",
+      "id": "74db669ca926d6e5",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "b05e4b7068b84593",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b05e4b7068b84593",
+      "fromSide": "bottom",
+      "id": "28147cf162a83aea",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "b41f376ac0d659e6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b41f376ac0d659e6",
+      "fromSide": "bottom",
+      "id": "3019da119f27fd66",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "03ecf0f10a30e379",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "393df3c19adacfa1",
+      "fromSide": "bottom",
+      "id": "dfeeeda582939376",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "2dd77572eaf19038",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2dd77572eaf19038",
+      "fromSide": "bottom",
+      "id": "f63a3c54c3f1d14c",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "75ce22194073198c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "75ce22194073198c",
+      "fromSide": "bottom",
+      "id": "a6edcccc8d3d1de1",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "a38fd0b49f8f2fb6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a38fd0b49f8f2fb6",
+      "fromSide": "bottom",
+      "id": "3428c32879fa6bed",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "367e0c0cd2dfd79a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "367e0c0cd2dfd79a",
+      "fromSide": "bottom",
+      "id": "330fb89c38556b32",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "6d0a3e5a7bbe74b8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6d0a3e5a7bbe74b8",
+      "fromSide": "bottom",
+      "id": "9eb4ddd4dcfdffc9",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "33e30f92ad2df544",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "33e30f92ad2df544",
+      "fromSide": "bottom",
+      "id": "c2184205828eda7e",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "abb6be0592aaf93b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0bf77f9f047110dc",
+      "fromSide": "bottom",
+      "id": "cc2bc8214fafee59",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "b84f6f16d797c1f0",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "03ecf0f10a30e379",
+      "fromSide": "bottom",
+      "id": "43d5c1f3c4ea6f9e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "b84f6f16d797c1f0",
+      "toSide": "top"
+    },
+    {
+      "fromFloating": false,
+      "fromNode": "bdbac9310b6143e5",
+      "fromSide": "bottom",
+      "id": "f1ed9f9f713b0cd6",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": "direct"
+      },
+      "toFloating": false,
+      "toNode": "b84f6f16d797c1f0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "abb6be0592aaf93b",
+      "fromSide": "bottom",
+      "id": "de7986b841fd0b56",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toFloating": false,
+      "toNode": "b84f6f16d797c1f0",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "startNode": "31aaf71f4fd9dad2",
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "6",
+      "height": 2385,
+      "id": "31aaf71f4fd9dad2",
+      "label": "Planejamento completo de Estudo",
+      "ratio": 1.7777777777777777,
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "group",
+      "width": 4240,
+      "x": -80,
+      "y": -720
+    },
+    {
+      "color": "2",
+      "height": 1608,
+      "id": "ddb227765c3f1d09",
+      "label": "Insigths",
+      "type": "group",
+      "width": 1600,
+      "x": 2520,
+      "y": -600
+    },
+    {
+      "background": "Arquivos/Img/download.png",
+      "color": "1",
+      "height": 1474,
+      "id": "6e42cb88c48392e8",
+      "label": "Metas para projeto",
+      "type": "group",
+      "width": 1480,
+      "x": 2600,
+      "y": -514
+    },
+    {
+      "collapsed": true,
+      "color": "#850b9d",
+      "height": 340,
+      "id": "b06c0620eefc6dc8",
+      "label": "Sprint 1",
+      "type": "group",
+      "width": 900,
+      "x": 2680,
+      "y": 360
+    },
+    {
+      "collapsed": true,
+      "color": "1",
+      "height": 340,
+      "id": "5e82923784cc904f",
+      "label": "Sprint 2",
+      "type": "group",
+      "width": 900,
+      "x": 2920,
+      "y": 360
+    },
+    {
+      "collapsed": true,
+      "color": "5",
+      "height": 340,
+      "id": "6dec3a0c0cf65c59",
+      "label": "Sprint 6",
+      "type": "group",
+      "width": 900,
+      "x": 2680,
+      "y": 473
+    },
+    {
+      "collapsed": true,
+      "color": "4",
+      "height": 340,
+      "id": "8a6486537067b46b",
+      "label": "Sprint 5",
+      "type": "group",
+      "width": 900,
+      "x": 2920,
+      "y": 473
+    },
+    {
+      "collapsed": true,
+      "color": "2",
+      "height": 340,
+      "id": "d5579ac202dfdf18",
+      "label": "Sprint 3",
+      "type": "group",
+      "width": 900,
+      "x": 3170,
+      "y": 360
+    },
+    {
+      "collapsed": true,
+      "color": "3",
+      "height": 340,
+      "id": "f2acd8abc8f357ff",
+      "label": "Sprint 4",
+      "type": "group",
+      "width": 900,
+      "x": 3160,
+      "y": 473
+    },
+    {
+      "collapsed": true,
+      "color": "6",
+      "height": 340,
+      "id": "019631fa30f2742b",
+      "label": "Sprint 7",
+      "type": "group",
+      "width": 900,
+      "x": 2680,
+      "y": 600
+    },
+    {
+      "color": "4",
+      "file": "Estudo/01_Estudo/Excel.md",
+      "height": 380,
+      "id": "8bfdfbc25ac36f8b",
+      "type": "file",
+      "width": 400,
+      "x": 1060,
+      "y": -680
+    },
+    {
+      "file": "Estudo/Templates/Template Semanal.md",
+      "height": 747,
+      "id": "d99b3b372d6512bb",
+      "type": "file",
+      "width": 1320,
+      "x": 1000,
+      "y": -139
+    },
+    {
+      "color": "#00aaff",
+      "file": "Estudo/01_Estudo/Python.md",
+      "height": 520,
+      "id": "cfd5399c547415ff",
+      "type": "file",
+      "width": 870,
+      "x": 720,
+      "y": 1040
+    },
+    {
+      "color": "5",
+      "file": "Estudo/01_Estudo/Economia.md",
+      "height": 380,
+      "id": "c30db2614cbd01cb",
+      "type": "file",
+      "width": 400,
+      "x": 1860,
+      "y": -680
+    },
+    {
+      "file": "Estudo/Templates/Template Diário.md",
+      "height": 520,
+      "id": "453b31dbefb588b7",
+      "type": "file",
+      "width": 870,
+      "x": 1720,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "file": "Estudo/01_Estudo/Power BI.md",
+      "height": 672,
+      "id": "eb6837e12fc942d9",
+      "type": "file",
+      "width": 640,
+      "x": 80,
+      "y": -101
+    },
+    {
+      "height": 60,
+      "id": "e01cc41ec244571f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Início PY",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -494
+    },
+    {
+      "height": 60,
+      "id": "97254bbf0d1df42c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Início Exel",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -494
+    },
+    {
+      "height": 60,
+      "id": "90e11ff063312c62",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sintaxe e lógica básica",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -414
+    },
+    {
+      "height": 60,
+      "id": "e6e0b7097d3ba532",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Manipular CSV com pandas",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -334
+    },
+    {
+      "height": 60,
+      "id": "80126a0eb095fca2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fórmulas essenciais",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -414
+    },
+    {
+      "height": 60,
+      "id": "33e30f92ad2df544",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Econometria básica",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -14
+    },
+    {
+      "height": 60,
+      "id": "abb6be0592aaf93b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Análise crítica de dados econômicos",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": 66
+    },
+    {
+      "height": 60,
+      "id": "03141a5affacc97e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Gráficos básicos",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -334
+    },
+    {
+      "height": 60,
+      "id": "de528339607fa9b2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Modelagem de dados eficiente",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -174
+    },
+    {
+      "height": 60,
+      "id": "83d0c0d8fbb094c9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Power Query",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -334
+    },
+    {
+      "height": 60,
+      "id": "8a6bb606d24dd582",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "DAX básico",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -254
+    },
+    {
+      "height": 60,
+      "id": "abd35994babb9bce",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Orientação a objetos",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -254
+    },
+    {
+      "height": 60,
+      "id": "9952016b4c01f1ec",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Projeto de análise completa",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -174
+    },
+    {
+      "height": 60,
+      "id": "14d7f28f8a2553ee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "API e automação",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -94
+    },
+    {
+      "height": 60,
+      "id": "547be7e24a023b39",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tabelas dinâmicas",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -174
+    },
+    {
+      "height": 60,
+      "id": "c250af1829c187a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macros simples",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -94
+    },
+    {
+      "height": 60,
+      "id": "b3e2ea0b446cdee4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Formatação condicional",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -254
+    },
+    {
+      "height": 60,
+      "id": "393df3c19adacfa1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Início Economia",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -494
+    },
+    {
+      "height": 60,
+      "id": "c901d12298033d1c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Início Power BI",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -494
+    },
+    {
+      "height": 60,
+      "id": "ca11601f21abe4bd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Interface e gráficos",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -414
+    },
+    {
+      "height": 60,
+      "id": "2dd77572eaf19038",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Oferta e demanda",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -414
+    },
+    {
+      "height": 60,
+      "id": "b41f376ac0d659e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Segurança (RLS)",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -14
+    },
+    {
+      "height": 60,
+      "id": "b05e4b7068b84593",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Filtros e segmentações",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -94
+    },
+    {
+      "height": 60,
+      "id": "6d0a3e5a7bbe74b8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Políticas econômicas",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -94
+    },
+    {
+      "height": 60,
+      "id": "75ce22194073198c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Indicadores macroeconômicos",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -334
+    },
+    {
+      "height": 60,
+      "id": "a38fd0b49f8f2fb6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Escolas econômicas",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -254
+    },
+    {
+      "height": 60,
+      "id": "367e0c0cd2dfd79a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Teoria dos jogos",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": -174
+    },
+    {
+      "height": 60,
+      "id": "2c1caaa1e5529205",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Machine Learning básico",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": -14
+    },
+    {
+      "height": 60,
+      "id": "93e4c095262629fc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "VBA avançado",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": -14
+    },
+    {
+      "height": 94,
+      "id": "b84f6f16d797c1f0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Criação do projeto\nAnálise e Visualização do Desempenho Econômico de Países",
+      "type": "text",
+      "width": 300,
+      "x": 3020,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "0bf77f9f047110dc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Power Query no Excel",
+      "type": "text",
+      "width": 260,
+      "x": 2900,
+      "y": 66
+    },
+    {
+      "height": 60,
+      "id": "03ecf0f10a30e379",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Performance e otimização de relatórios",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": 66
+    },
+    {
+      "height": 60,
+      "id": "bdbac9310b6143e5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Manipular arquivos Excel (openpyxl)",
+      "type": "text",
+      "width": 260,
+      "x": 2620,
+      "y": 66
+    }
+  ]
+}
