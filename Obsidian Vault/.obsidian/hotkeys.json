@@ -1,0 +1,11 @@
+{
+  "google-calendar:open-google-calendar-schedule-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
+}
