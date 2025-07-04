@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo/01_Estudo/Economia.md",
+                "file": "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Economia"
+              "title": "01_Condições"
             }
           }
         ]
@@ -195,24 +195,34 @@
   },
   "active": "c07ae347ced8b05e",
   "lastOpenFiles": [
+    "Estudo/Templates/Template Alimentos.md",
+    "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
+    "Estudo/02_Exercicios/01_Exercicios.py/00_Antes de Condições.md",
+    "Estudo/Templates/Template Semanal.md",
+    "Estudo/02_Exercicios/wefwf.py",
+    "Estudo/03_Diário/04-07-2025, 07.07.md",
+    "Estudo/02_Exercicios/ef.py",
+    "Estudo/Planner Geral.canvas",
+    "Estudo/03_Diário/03-07-2025, 17.07.md",
+    "Estudo/02_Exercicios/03_Exercicios.Exel",
+    "Estudo/02_Exercicios/02_Exercicios.BI",
+    "Arquivos/Img/download.png",
+    "Arquivos/Exels/Módulo_2/02 - Filtro.xlsx",
+    "Arquivos/Exels/Módulo_2/01 - Cálculos Percentuais.xlsx",
+    "Estudo/01_Estudo/Economia.md",
     "Estudo/03_Diário/03-07-2025, 11.07.md",
     "Estudo/03_Diário/25-06-2025, 14.06.md",
-    "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
     "Projetos/Projeto Economia.md",
     "Projetos/Tabela Dinâmica Excel.md",
     "Projetos/Gráfico de Correlação.md",
     "Projetos/Documentação Técnica.md",
     "Projetos/Canvas Sprint X.md",
-    "Estudo/03_Diário/03-07-2025, 17.07.md",
-    "Estudo/Templates/Template Semanal.md",
     "Estudo/Templates/Template Diário.md",
-    "Estudo/Templates/Template Alimentos.md",
     "Estudo/01_Estudo/Excel.md",
     "Arquivos/Exels/Módulo_2/10 - SOMA e MÉDIA (Novos Exemplos Práticos).xlsm",
     "Estudo/03_Diário/02-07-2025, 13.07.md",
     "Estudo/03_Diário/27-06-2025, 12.06.md",
     "Estudo/03_Diário/26-06-2025, 17.06.md",
-    "Estudo/Planner Geral.canvas",
     "Proposta ESI.md",
     "Estudo/01_Estudo/Power BI.md",
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/Meu Primeiro Dashboard.pbix",
@@ -220,12 +230,6 @@
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/logo.jpg",
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/Base de Dados.xlsx",
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos",
-    "Arquivos/BIs/Dashboard para Melhorias",
-    "Arquivos/BIs/Dashboard de Vendas (Live)/6 - Tutorial - Cria Conta Corporativa Gratuita.pdf",
-    "Arquivos/BIs/Dashboard de Vendas (Live)/5 - Conta Corporativa Gratuita e Download do Power BI - Método 1.pdf",
-    "Arquivos/BIs/Dashboard de Vendas (Live)/6 - Tutorial - Problemas com Gráfico de Mapa.pdf",
-    "Arquivos/BIs/Dashboard de Vendas (Live)/4 - Etapas do Projeto.pdf",
-    "Arquivos/BIs/Dashboard de Vendas (Live)/5 - Aulas Extras - O que é e por que Aprender e Utilizar.pdf",
     "Arquivos/BIs/Dashboard de Vendas (Live)/3 - Plano de Fundo - Dashboard de Vendas (PC).png",
     "Arquivos/BIs/Dashboard de Vendas (Live)/3 - Plano de Fundo - Dashboard de Vendas (Celular).png",
     "Arquivos/BIs/Dashboard de SAC (Live)/3 - Plano de Fundo - SAC.png",
@@ -233,14 +237,9 @@
     "Arquivos/BIs/Dashboard de Análise de Perfil (Live)/3 - Plano de Fundo - Análise de Perfil (Dashboard).PNG",
     "Arquivos/BIs/Dashboard de Análise de Perfil (Live)/3 - Plano de Fundo - Análise de Perfil (Capa).PNG",
     "Arquivos/Dashboard para Melhorias/Módulo 2 - Arquivos/logo.jpg",
-    "Arquivos/Dashboard para Melhorias/Módulo 2 - Arquivos/AG - LOGO - SIMPLIFICA TREINAMENTOS.png",
     "Estudo/01_Estudo/Python.md",
     "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
     "Estudo/03_Diário/23-06-2025, 08.06.md",
-    "Estudo/03_Diário/18-06-2025, 20.06.md",
-    "10 - SOMA e MÉDIA (Novos Exemplos Práticos.xlsx).md",
-    "Estudo/03_Diário/17-06-2025, 09.06.md",
-    "Estudo/03_Diário/16-06-2025, 17.06.md",
-    "Estudo/03_Diário/12-06-2025, 18.06.md"
+    "Estudo/03_Diário/18-06-2025, 20.06.md"
   ]
 }
