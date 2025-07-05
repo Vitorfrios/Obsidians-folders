@@ -1,160 +1,105 @@
-# 1. Maior de Dois Números
-# Peça dois números e informe qual é o maior (ou se são iguais).
-
-num = []
-qnt = int(input("digite a quantidade de numeros desejados "))
+# 🔁 1. Contagem Simples
+# Mostre os números de 1 a 10, um por linha.
+lista = []
+qnt = int(input("quantos nuumqeos quer "))
 for i in range (qnt):
-    numeros = int(input(f"digite o numero {i+1}"))
-    num.append(numeros)
+    num = int(input(f"digite o {i+1} numero "))
+    print(num)
+    lista.append(num)
+print(lista)
+print("---"*15)
 
-if len(num) == 0:
-    print("Nenhum número foi digitado.")
-elif all(x == num[0] for x in num):
-    print("Todos os números são iguais.")
-else: print(f"o maior numero é {max(num)} e o menor é {min(num)}")
+# 🔁 2. Contagem Regressiva
+# Mostre os números de 10 a 1 (ordem decrescente).
+for i in range (10,0,-1):
+    print(i,end=" ")
+print()
+print("---"*15)
 
+# 🔁 3. Números Pares
+# Mostre todos os números pares entre 1 e 20.
+for i in range (0,20,+2):
+    print(i,end=" ")
+print()
+print("---"*15)
 
+# 🔁 4. Tabuada
+# Peça um número e mostre a tabuada dele de 1 a 10.
+n=int(input("digite um numero "))
+for i in range (1,11):
+    mat = n*i
+    print(mat,end=" ")
+print()
+print("---"*15)
 
-# 2. Verificação de Idade
-# Peça a idade de uma pessoa e diga se ela é:
-# - Criança (0–12)
-# - Adolescente (13–17)
-# - Adulto (18–59)
-# - Idoso (60+)
-
-qnt2 = int(input("Quantas pessoas você quer verificar? "))
-pessoas = []
-for i in range(qnt2):
-    idade = int(input(f"Digite a idade da {i+1}ª pessoa: "))
-    if 0 <= idade <= 12:
-        Verificar = "É criança"
-        print("É criança")
-
-    elif 13 <= idade <= 17:
-        Verificar = "Adolescente"
-        print("Adolescente")
-
-    elif 18 <= idade <= 59:
-        Verificar = "Adulto"
-        print("Adolescente")
-
-    elif idade >= 60:
-        Verificar = "Idoso"
-        print("Idoso")
-    else:
-        Verificar = "Idade inválida"
-        
-
-    pessoas.append((idade, Verificar))
-
-print(pessoas)
+# 🔁 5. Soma de Números
+# Peça 5 números ao usuário e mostre a soma total.
+qnt = int(input("quantos numeros quer? "))
+numeros = []
+for i in range(qnt):
+    n1 = int(input(f"Digite o {i+1}º número: "))
+    numeros.append(n1)
+soma = sum(numeros)
+print(soma)
+print()
+print("---" * 15)
 
 
-# 3. Nota para Conceito
-# Peça uma nota (0 a 10) e informe o conceito:
-# - A (9 a 10)
-# - B (8 a 8.9)
-# - C (7 a 7.9)
-# - D (6 a 6.9)
-# - F (abaixo de 6)
-
-qnt3 = int(input("Digite quantas notas quer verificar: "))
-notas = []
-
-for i in range(qnt3):
-    nota = float(input(f"Digite a {i+1}ª nota: "))
-    if nota < 6:
-        notas.append((i+1, nota, "F"))
-    elif 6 <= nota <= 6.9:
-        notas.append((i+1, nota, "D"))
-    elif 7 <= nota <= 7.9:
-        notas.append((i+1, nota, "C"))
-    elif 8 <= nota <= 8.9:
-        notas.append((i+1, nota, "B"))
-    elif 9 <= nota <= 10:
-        notas.append((i+1, nota, "A"))
-    else:
-        notas.append((i+1, nota, "Nota inválida"))
-
-print(notas)
+# 🔁 6. Nome por Letras
+# Peça um nome e mostre cada letra separadamente.
+nome = input("digite o seu nome ")
+for i in nome:
+    print(i,end="")
+    print()
 
 
+# 🔁 7. Lista de Palavras
+# Crie uma lista com 4 palavras e mostre cada uma com seu número de letras.
+nomes = []
+qnt3 = int(input("quantos nomes quer "))
+for i in range (qnt3):
+    name = input(f"Digite o nome {i+1} ")
+    nomes.append(name)
+for nam in nomes:
+    for i in nam:
+        print(i,end=" ")
+    print(f"- {len(nam)} letras")
 
-# 4. Número Negativo ou Positivo
-# Peça um número e diga se ele é positivo, negativo ou zero.
-qnt4 = int(input("Digite quantos numeros quer "))
-nmbr = []
+# 🔁 8. Média de Notas
+# Peça 4 notas e calcule a média.
+
+qnt4 = int(input("quantos numeros p media "))
+numeros1 =[]
 for i in range(qnt4):
-    n1 = int(input("digite o numero "))
-    if n1 > 0:
-        print("positivo")
-        classi = "positivo"
-    elif n1 < 0 :
-        print("negativo")
-        classi ="negativo"
-    elif n1==0: 
-        print("zero")
-        classi = "zero"
-    nmbr.append((n1,classi))
-print(nmbr)
+    n=int(input(f"Digite o numero {i+1} "))
+    numeros1.append(n)
+cont = len(nam)
+some=sum(numeros1)
+media = some/cont
+print(media)
 
-# 5. Login Simples
-# Peça um nome de usuário e uma senha.
-# Valide se eles são "admin" e "1234", e diga se o login foi bem-sucedido ou não.
-user = {
-    "admin": "1234",
-    "joao": "senha123",
-    "maria": "abc987"
-}
-usuario = input("seu user ")
-senha = input("sua senha")
+# 🔁 9. Contar Vogais
+# Peça uma palavra e mostre quantas vogais ela tem.
 
-if usuario in user and user[usuario] == senha:
-        print("Login bem-sucedido!")
-else:
-    print("Usuário ou senha incorretos.")
+palavra = input("De-me uma palavra: ")
+cont = []
+vogais = "aeiouAEIOU"
+
+for letra in palavra:
+    if letra in vogais:
+        cont.append(letra)
+
+print(f"Número de vogais: {len(cont)}")
+print(f"Vogais encontradas: {cont}")
 
 
-# 6. Par, Ímpar ou Zero
-# Peça um número e diga se ele é par, ímpar ou zero (caso especial).
-qnt5 = int(input("Digite quantos umeros quer "))
-nmrs = []
+# 🔁 10. Multiplicação Acumulada
+# Peça 5 números e mostre o resultado da multiplicação entre eles.
+from math import prod
+qnt5 = int(input("Digite quantos numeros vc quer "))
+lists = []
 for i in range(qnt5):
-    nu = int(input(f"digite o {i+1}º numero "))
-    if nu == 0:
-        print("zero")
-        cls = "zero"
-    elif nu % 2 == 0:
-        print("par")
-        cls = "par"
-    else:cls = "impar" ;print("impar")
-    nmrs.append((nu,cls))
-print(nmrs)
-
-# 7. Calculadora com Operador
-# Peça dois números e uma operação (+, -, *, /) e exiba o resultado.
-
-num1 = int(input("digite o prieiro num "))
-num2 = int(input("digite o seg num "))
-op = input("digite o operador (+, -, *, /) ")
-if op == "+":
-    sum = num1+num2
-    print(sum)
-elif op == "-":
-    sum = num1-num2
-    print(sum)
-elif op== "/":
-    sum = num1/num2
-    print(sum)
-elif op == "*":
-    sum = num1*num2
-    print(sum)
-
-# 8. Aposentadoria
-# Peça a idade e o tempo de contribuição de uma pessoa.
-# Diga se ela pode se aposentar (idade ≥ 60 e contribuição ≥ 30 anos).
-id = int(input("digite sua idade "))
-cont = int (input("tempo de contribuição "))
-if id >= 60 and cont >= 30:
-    print("pode aposentar" )
-else:print("nao pode aposentar")
+    n = int(input(f" digite o numero {i+1} "))
+    lists.append(n)
+conta = prod(lists)
+print(conta) 

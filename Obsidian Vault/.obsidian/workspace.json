@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
+                "file": "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Condições"
+              "title": "02_Laços"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "c07ae347ced8b05e",
   "lastOpenFiles": [
-    "Estudo/Templates/Template Alimentos.md",
+    "Estudo/01_Estudo/Python.md",
+    "Estudo/03_Diário/04-07-2025, 19.07.md",
     "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
+    "Estudo/Templates/Template Alimentos.md",
     "Estudo/02_Exercicios/01_Exercicios.py/00_Antes de Condições.md",
     "Estudo/Templates/Template Semanal.md",
     "Estudo/02_Exercicios/wefwf.py",
@@ -237,7 +239,6 @@
     "Arquivos/BIs/Dashboard de Análise de Perfil (Live)/3 - Plano de Fundo - Análise de Perfil (Dashboard).PNG",
     "Arquivos/BIs/Dashboard de Análise de Perfil (Live)/3 - Plano de Fundo - Análise de Perfil (Capa).PNG",
     "Arquivos/Dashboard para Melhorias/Módulo 2 - Arquivos/logo.jpg",
-    "Estudo/01_Estudo/Python.md",
     "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
     "Estudo/03_Diário/23-06-2025, 08.06.md",
     "Estudo/03_Diário/18-06-2025, 20.06.md"
