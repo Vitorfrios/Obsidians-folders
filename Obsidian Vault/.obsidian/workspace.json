@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
+                "file": "Estudo/03_Diário/04-08-2025, 15.08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Laços"
+              "title": "04-08-2025, 15.08"
+            }
+          },
+          {
+            "id": "6ffd1a31937c83db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudo/01_Estudo/C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,54 +208,54 @@
       "univer:Univer": false
     }
   },
-  "active": "c07ae347ced8b05e",
+  "active": "3888ed2ac9e21316",
   "lastOpenFiles": [
+    "Estudo/02_Exercicios/04_Exercicios_C",
+    "Estudo/01_Estudo/C.md",
+    "04_Exercicios.md",
+    "Estudo/01_Estudo/Economia.md",
     "Estudo/01_Estudo/Python.md",
-    "Estudo/03_Diário/04-07-2025, 19.07.md",
-    "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
-    "Estudo/Templates/Template Alimentos.md",
-    "Estudo/02_Exercicios/01_Exercicios.py/00_Antes de Condições.md",
+    "Estudo/03_Diário/04-08-2025, 15.08.md",
     "Estudo/Templates/Template Semanal.md",
-    "Estudo/02_Exercicios/wefwf.py",
+    "Estudo/Templates/Template Diário.md",
+    "Estudo/03_Diário/30-07-2025, 09.07.md",
+    "Estudo/02_Exercicios/teste.c",
+    "Estudo/03_Diário/31-07-2025, 16.07.md",
+    "Estudo/03_Diário/31-07-2025, 10.07.md",
+    "Estudo/03_Diário/31-07-2025, 09.07.md",
+    "Estudo/02_Exercicios/01_Exercicios.py/03_Funcoes.md",
     "Estudo/03_Diário/04-07-2025, 07.07.md",
+    "Estudo/03_Diário/29-07-2025, 15.07.md",
+    "Estudo/03_Diário/28-07-2025, 19.07.md",
+    "Estudo/02_Exercicios/d.html",
+    "Estudo/03_Diário/24-07-2025, 11.07.md",
+    "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
+    "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
+    "Estudo/03_Diário/23-07-2025, 10.07.md",
+    "Estudo/03_Diário/22-07-2025, 14.07.md",
+    "Estudo/03_Diário/17-07-2025, 09.07.md",
+    "Estudo/03_Diário/16-07-2025, 08.07.md",
+    "Estudo/02_Exercicios/revisão.py",
+    "Estudo/01_Estudo/Excel.md",
+    "Estudo/Templates/Template Alimentos.md",
+    "Estudo/03_Diário/10-07-2025, 10.07.md",
+    "Estudo/02_Exercicios/wefwf.py",
     "Estudo/02_Exercicios/ef.py",
     "Estudo/Planner Geral.canvas",
-    "Estudo/03_Diário/03-07-2025, 17.07.md",
     "Estudo/02_Exercicios/03_Exercicios.Exel",
     "Estudo/02_Exercicios/02_Exercicios.BI",
     "Arquivos/Img/download.png",
     "Arquivos/Exels/Módulo_2/02 - Filtro.xlsx",
     "Arquivos/Exels/Módulo_2/01 - Cálculos Percentuais.xlsx",
-    "Estudo/01_Estudo/Economia.md",
-    "Estudo/03_Diário/03-07-2025, 11.07.md",
-    "Estudo/03_Diário/25-06-2025, 14.06.md",
-    "Projetos/Projeto Economia.md",
-    "Projetos/Tabela Dinâmica Excel.md",
-    "Projetos/Gráfico de Correlação.md",
-    "Projetos/Documentação Técnica.md",
-    "Projetos/Canvas Sprint X.md",
-    "Estudo/Templates/Template Diário.md",
-    "Estudo/01_Estudo/Excel.md",
     "Arquivos/Exels/Módulo_2/10 - SOMA e MÉDIA (Novos Exemplos Práticos).xlsm",
-    "Estudo/03_Diário/02-07-2025, 13.07.md",
-    "Estudo/03_Diário/27-06-2025, 12.06.md",
-    "Estudo/03_Diário/26-06-2025, 17.06.md",
-    "Proposta ESI.md",
-    "Estudo/01_Estudo/Power BI.md",
-    "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/Meu Primeiro Dashboard.pbix",
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/AG - LOGO - SIMPLIFICA TREINAMENTOS.png",
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/logo.jpg",
-    "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/Base de Dados.xlsx",
-    "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos",
     "Arquivos/BIs/Dashboard de Vendas (Live)/3 - Plano de Fundo - Dashboard de Vendas (PC).png",
     "Arquivos/BIs/Dashboard de Vendas (Live)/3 - Plano de Fundo - Dashboard de Vendas (Celular).png",
     "Arquivos/BIs/Dashboard de SAC (Live)/3 - Plano de Fundo - SAC.png",
     "Arquivos/BIs/Dashboard de Produtos (Live)/3 - Plano de Fundo - Análise de Produtos.png",
     "Arquivos/BIs/Dashboard de Análise de Perfil (Live)/3 - Plano de Fundo - Análise de Perfil (Dashboard).PNG",
     "Arquivos/BIs/Dashboard de Análise de Perfil (Live)/3 - Plano de Fundo - Análise de Perfil (Capa).PNG",
-    "Arquivos/Dashboard para Melhorias/Módulo 2 - Arquivos/logo.jpg",
-    "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
-    "Estudo/03_Diário/23-06-2025, 08.06.md",
-    "Estudo/03_Diário/18-06-2025, 20.06.md"
+    "Arquivos/Dashboard para Melhorias/Módulo 2 - Arquivos/logo.jpg"
   ]
 }
