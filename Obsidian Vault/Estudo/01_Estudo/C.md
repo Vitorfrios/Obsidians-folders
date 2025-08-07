@@ -224,19 +224,48 @@ else:
 
 ---
 
-### 🔁 6. Estruturas de Repetição
 
-#### ✅ Repetir ações até uma condição parar
+### 🔁 Estruturas de Repetição — Exemplos para cada laço
 
 |Laço|C|Python|
 |---|---|---|
 |`while`|enquanto condição|enquanto condição|
 |`for`|com contagem|com `range()`|
-|`do while`|executa ao menos 1x|não existe (usa while)|
+|`do while`|executa ao menos 1x|não existe (usa `while`)|
 
-#### 💡 Exemplo: contar de 1 a 5
+---
 
-#### 🔣 Código em C
+#### 💡 Exemplo 1: **`while`** — contar de 1 a 5
+
+##### 🔣 Código em C
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i = 1;
+    while (i <= 5) {
+        printf("%d\n", i);
+        i++;
+    }
+    return 0;
+}
+```
+
+##### 🐍 Código em Python
+
+```python
+i = 1
+while i <= 5:
+    print(i)
+    i += 1
+```
+
+---
+
+#### 💡 Exemplo 2: **`for`** — contar de 1 a 5
+
+##### 🔣 Código em C
 
 ```c
 #include <stdio.h>
@@ -249,11 +278,30 @@ int main() {
 }
 ```
 
-#### 🐍 Código em Python
+##### 🐍 Código em Python
 
 ```python
 for i in range(1, 6):
     print(i)
+```
+
+---
+
+#### 💡 Exemplo 3: **`do while`** — contar de 1 a 5 (executa ao menos 1x)
+
+##### 🔣 Código em C
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i = 1;
+    do {
+        printf("%d\n", i);
+        i++;
+    } while (i <= 5);
+    return 0;
+}
 ```
 
 ---
