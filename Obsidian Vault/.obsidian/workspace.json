@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo/01_Estudo/C.md",
+                "file": "Estudo/03_Diário/18-08-2025, 19.08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "18-08-2025, 19.08"
+            }
+          },
+          {
+            "id": "c928e4c54739c700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudo/03_Diário/01-09-2025, 16.09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-09-2025, 16.09"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,6 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -208,21 +223,35 @@
       "univer:Univer": false
     }
   },
-  "active": "6ffd1a31937c83db",
+  "active": "c928e4c54739c700",
   "lastOpenFiles": [
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/bin/Debug/Exercicios_Resolvidos.exe",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/Exercicios_Resolvidos.depend",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/obj/Debug/main.o",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/bin/Debug",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/bin",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/obj/Debug",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/obj",
-    "Estudo/03_Diário/06-08-2025, 14.08.md",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/main.c",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos/Exercicios_Resolvidos.cbp",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Exercicios_Resolvidos",
-    "Estudo/02_Exercicios/04_Exercicios_C/Exercicios livro/Cap_3/Resolvidos/Cap_3.layout",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex08/bin/Debug/ex08.exe",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex08/obj/Debug/main.o",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex08/bin/Debug",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex08/bin",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex08/obj/Debug",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex08/obj",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex07/ex07.depend",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex07/bin/Debug/ex07.exe",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex07/obj/Debug/main.o",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex07/bin/Debug",
+    "Estudo/02_Exercicios/04_Exercicios_C/Listas/Lista2/ex07/bin",
+    "Estudo/03_Diário/19-08-2025, 16.08.md",
+    "Estudo/03_Diário/01-09-2025, 16.09.md",
+    "Estudo/03_Diário/19-08-2025, 15.08.md",
+    "Estudo/03_Diário/18-08-2025, 07.08.md",
+    "Estudo/03_Diário/18-08-2025, 19.08.md",
+    "Estudo/03_Diário/17-08-2025, 19.08.md",
+    "Estudo/03_Diário/14-08-2025, 13.08.md",
+    "Estudo/03_Diário/13-08-2025, 12.08.md",
+    "Estudo/03_Diário/12-08-2025, 18.08.md",
+    "Estudo/03_Diário/11-08-2025, 15.08.md",
+    "Estudo/03_Diário/11-08-2025, 07.08.md",
+    "Estudo/03_Diário/08-08-2025, 16.08.md",
+    "Estudo/03_Diário/08-08-2025, 07.08.md",
+    "Estudo/03_Diário/07-08-2025, 15.08.md",
     "Estudo/01_Estudo/C.md",
+    "Estudo/03_Diário/06-08-2025, 14.08.md",
     "Estudo/03_Diário/05-08-2025, 14.08.md",
     "Estudo/Templates/Template Semanal.md",
     "04_Exercicios.md",
@@ -232,20 +261,6 @@
     "Estudo/Templates/Template Diário.md",
     "Estudo/03_Diário/30-07-2025, 09.07.md",
     "Estudo/03_Diário/31-07-2025, 16.07.md",
-    "Estudo/03_Diário/31-07-2025, 10.07.md",
-    "Estudo/03_Diário/31-07-2025, 09.07.md",
-    "Estudo/02_Exercicios/01_Exercicios.py/03_Funcoes.md",
-    "Estudo/03_Diário/04-07-2025, 07.07.md",
-    "Estudo/03_Diário/29-07-2025, 15.07.md",
-    "Estudo/03_Diário/28-07-2025, 19.07.md",
-    "Estudo/03_Diário/24-07-2025, 11.07.md",
-    "Estudo/02_Exercicios/01_Exercicios.py/02_Laços.md",
-    "Estudo/02_Exercicios/01_Exercicios.py/01_Condições.md",
-    "Estudo/03_Diário/23-07-2025, 10.07.md",
-    "Estudo/03_Diário/22-07-2025, 14.07.md",
-    "Estudo/03_Diário/17-07-2025, 09.07.md",
-    "Estudo/03_Diário/16-07-2025, 08.07.md",
-    "Estudo/01_Estudo/Excel.md",
     "Estudo/Planner Geral.canvas",
     "Arquivos/Img/download.png",
     "Arquivos/BIs/Dashboard para Melhorias/Módulo 2 - Arquivos/AG - LOGO - SIMPLIFICA TREINAMENTOS.png",
